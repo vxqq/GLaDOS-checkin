@@ -6,9 +6,9 @@
 
 但是当签到一定次数后，将会返回 `Checkin! Get 0 day(Your lucky chance is 33%), try next time.`，大概意思就是 1/3 的几率获得 1 天的奖励。
 
-[GLaDOS 官方 github](https://cq2a3-ulz3f-c321b-ncgf2.glados.space)，[GLaDOS 官网](https://glados.space/landing/CQ2A3-ULZ3F-C321B-NCGF2)。
+[GLaDOS 官方 github](https://cq2a3-ulz3f-c321b-ncgf2.glados.space)，[GLaDOS 官网](https://glados.space/landing/372HQ-MAD03-GXI6G-9Y3NW)。
 
-如果还没有注册的话，可以去[这里](https://glados.rocks/register)注册，然后填写邀请码：`CQ2A3-ULZ3F-C321B-NCGF2`。双方都可以获得奖励天数哦。
+如果还没有注册的话，可以去[这里](https://glados.rocks/register)注册，然后填写邀请码：`372HQ-MAD03-GXI6G-9Y3NW`。双方都可以获得奖励天数哦。
 
 ## 步骤
 
